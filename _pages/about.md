@@ -2,16 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>I am a PhD candidate studying in Institude of Atmospheric Physics, Chinese Academy of Sciences. Now I am insteresting in the water cycle over Tibetan Plateau.</a>. 
+subtitle: <a href='#'>I am a PhD student studying in Institude of Atmospheric Physics, Chinese Academy of Sciences.</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Beijing, Beijing</p>
+    <p>Beijing, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,7 +26,7 @@ latest_posts:
 ---
 
 
-I am a PhD candidate studying in Institude of Atmospheric Physics, Chinese Academy of Sciences. Now I am insteresting in the water cycle over Tibetan Plateau. [Bian He](https://labesm-staff.iap.ac.cn/heb/) is my advisor who is an expert in earth system model and climate. 
+I am a PhD candidate studying in Institude of Atmospheric Physics, Chinese Academy of Sciences. Now I am insteresting in the water cycle over Tibetan Plateau. [Bian He](https://labesm-staff.iap.ac.cn/heb/) is my advisor who is an expert in earth system model and climate dynamics.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
