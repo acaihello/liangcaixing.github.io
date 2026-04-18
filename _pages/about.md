@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>I am a PhD candidate studying in Institude of Atmospheric Physics, Chinese Academy of Sciences. Now I am insteresting in the water cycle over Tibetan Plateau. Bian He#https://labesm-staff.iap.ac.cn/heb/ is my advisor who is a expert in earth system model and climate</a>. Contect. xingliangcai@lasg.iap.ac.cn. Address. Beijing. 
+subtitle: <a href='#'>I am a PhD candidate studying in Institude of Atmospheric Physics, Chinese Academy of Sciences. Now I am insteresting in the water cycle over Tibetan Plateau.</a>. 
 
 profile:
   align: right
@@ -28,7 +28,7 @@ latest_posts:
 ---
 
 
-I am a PhD candidate studying in Institude of Atmospheric Physics, Chinese Academy of Sciences. Now I am insteresting in the water cycle over Tibetan Plateau. Bian He(https://labesm-staff.iap.ac.cn/heb/) is my advisor who is a expert in earth system model and climate. 
+I am a PhD candidate studying in Institude of Atmospheric Physics, Chinese Academy of Sciences. Now I am insteresting in the water cycle over Tibetan Plateau. [Bian He](https://labesm-staff.iap.ac.cn/heb/) is my advisor who is an expert in earth system model and climate. 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
